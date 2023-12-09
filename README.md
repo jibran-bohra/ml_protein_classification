@@ -14,8 +14,6 @@ The code development process is based on an Object-Oriented approach, initiated 
 
 ## General Model and Results
 
-A comprehensive model for classifying protein architectures is developed using protein sequence, protein structure, and various numerical data. The dataset is augmented by replicating data points eightfold. Structural and numerical data undergo systematic rescaling, while label and sequence data are straightforwardly replicated. The inclusion of data augmentation, dropout layers, and regularization aims to mitigate overfitting tendencies.
-
-The model architecture can be found in `all_data_classifier.py`. The model achieved a minimum of 90% accuracy on unseen samples.
+A comprehensive model for classifying protein architectures is developed using protein sequence, protein structure, and various numerical data. The model architecture can be found in `all_data_classifier.py`. The model achieved a minimum of 90% accuracy on unseen samples.
 
 
