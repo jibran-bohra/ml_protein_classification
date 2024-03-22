@@ -1,4 +1,4 @@
-# ML Researcher Hands-on Challenge
+# Predicting Protein Architectures using ConvNets and LSTM
 
 ## Overview
 
